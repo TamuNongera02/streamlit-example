@@ -4,6 +4,7 @@ import math
 import pandas as pd
 import streamlit as st
 import cv2
+import subprocess
 
 # List of emotions 
 emotion =  ['Anger', 'Happy', 'Neutral', 'Surprise', 'Sad']
